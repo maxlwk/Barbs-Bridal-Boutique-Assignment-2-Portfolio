@@ -1,0 +1,390 @@
+
+  body {
+    font-size: 14px;
+  }
+  .v70_67 {
+    width: 100%;
+    height: 100%;
+    background: rgba(246,242,238,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v156_1084 {
+    width: 490px;
+    height: 702px;
+    background: url(../IMGS/Mens\ Suits\ 3.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 329px;
+    left: 1325px;
+    overflow: hidden;
+  }
+  .v202_2495 {
+    width: 493px;
+    height: 702px;
+    background: url(../IMGS/Mens\ Suits\ 1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 328px;
+    left: 105px;
+    overflow: hidden;
+  }
+ 
+  .v102_740 {
+    width: 138px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 38px;
+    left: 1622px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v398_3235 {
+    width: 846px;
+    height: 40px;
+    background: rgba(255,255,255,1);
+    margin: 63px;
+    opacity: 1;
+    position: absolute;
+    top: 32px;
+    left: 537px;
+    overflow: hidden;
+  }
+  .v398_3236 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3px;
+    left: 14px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v398_3237 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3px;
+    left: 190px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v398_3238 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3px;
+    left: 412px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+
+ 
+  .v120_4432 {
+    width: 496px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 130px;
+    left: 717px;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v214_2443 {
+    width: 496px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 550px;
+    left: 104px;
+ font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  
+  .v156_1086 {
+    width: 492px;
+    height: 700px;
+    background: url(../IMGS/Mens\ Suits\ 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 329px;
+    left: 714px;
+    overflow: hidden;
+  }
+  .v214_2444 {
+    width: 496px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 550px;
+    left: 712px;
+ font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v214_2445 {
+    width: 496px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 550px;
+    left: 1325px;
+ font-size: 25px;
+    opacity: 1;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+
+  .v357_3237 {
+    width: 100%;
+    height: 99px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 21px;
+    left: 165px;
+    overflow: hidden;
+  }
+
+  .v357_3239 {
+    width: 109px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 32px;
+    left: 435px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v357_3240 {
+    width: 240px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 32px;
+    left: 576px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v357_3241 {
+    width: 138px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 32px;
+    left: 1046px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v357_3242 {
+    width: 138px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 32px;
+    left: 1459px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v357_3243 {
+    width: 170px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 32px;
+    left: 830px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v357_3244 {
+    width: 184px;
+    height: 83px;
+    background: url(../IMGS/Logo.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  *{
+    --webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html{
+    font-size:16px;
+  }
+  body{
+    background: rgba(246,242,238,1);
+    font-size:1rem;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-family: El Messiri;
+  }
+  /* Header */
+  .region-header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+    
+  }
+  .fHeader {
+    width: 100%;
+    /* padding: 10px 80px 0; */
+  }
+  
+  .fLogo {
+    text-align: center;
+    padding-top: 30px;
+  }
+  .fLogo img {
+    max-width: 100%;
+    max-height: 60px;
+  }
+  .fMenuContainer {
+    border-bottom: 1px solid #60381E;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+  }
+  @media (max-width:720px) {
+    .fMenuContainer {
+        border-bottom: none;
+        height: auto;
+    }
+  }
+  .fMenuContainer nav ul.fMenu{
+    justify-content: center;
+    
+  }
+  nav ul.fMenu {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    list-style:none;
+  }
+  .fMenu2 nav ul.fMenu{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+  }
+  .fMenu > li > a {
+    font-size: 1.2rem;
+    margin: 0 40px;
+    position: relative !important;
+    text-transform: none;
+    background: #ffffff00;
+    line-height: 1.2em;
+    color: #000;
+    text-decoration: none;
+    font-family: El Messiri;
+  }
+  /* Toggle Menu */
+  .fMenuContainer .navbar-toggle {
+    display: block !important;
+    padding: 9px 10px;
+    background: none;
+    position: relative;
+    width: fit-content;
+   }
+   .fMenuContainer .navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background: #000;
+   }
+   .fMenuContainer .navbar-toggle .icon-bar:not(:first-child){
+    margin-top:4px;
+   }
+   .fMenuContainer .fModuleContent,
+   .fMenuContainer .navbar-toggle-container{
+    height:100%;
+    text-align: -webkit-right;
+   }
+   .fMenuContainer nav.collapse.show {
+    display: block !important;
+    position: fixed;
+    left:0;
+    right:0;
+    z-index:99;
+    height: 100%;
+    margin-left: 30px;
+    /* padding-right: 20px; */
+    /* top: 99px; */
+    transition: 0.3s ease-in-out;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu{
+    background:var(--brand-color-3);
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    align-content: flex-end;
+    padding-right: 20px;
+    opacity: 1;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu a{
+    text-align: right;
+    color:var(--brand-color-1-text);
+    display: block;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li{
+    margin:8px 0;
+    text-align: right;
+   }
+   .fMenuContainer nav.collapse.show > ul > li > ul{
+    position:relative;
+    width: 100%;
+    display: block;
+    opacity: 1;
+    visibility: visible;
+   }
+   .fMenuContainer nav.collapse.show > ul.fMenu > li > ul li{
+    margin: 0;
+    text-align: right;
+   }
+   .fMenuContainer nav.collapse.show > ul > li > ul:before,
+   .fMenuContainer nav.collapse.show > ul > li > ul:after{
+    right: 1rem;
+    left: unset;
+   }
+   .fMenuContainer nav.collapse.show > ul > li > ul:before{
+    right: 1.5rem;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li.fButton a .menu-item-text {
+    padding: unset;
+    background: unset;
+       border:unset;
+    font-weight:unset;
+    
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li.fButton a:hover .menu-item-text {
+    background: unset;
+       color: unset;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li a::before{
+       display:none;
+   }

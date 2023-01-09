@@ -1,0 +1,50 @@
+#myform {
+    text-align: center;
+    padding-top: 190px;
+    padding-left: 525px;
+    margin: 2%;
+  }
+  
+  .qty {
+    width: 60px;
+    height: 50px;
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid #7D5335;
+    
+  }
+  
+  input.qtyplus {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #7D5335;
+    background-color: transparent;
+    
+  }
+  
+  input.qtyminus {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #7D5335;
+    background-color: transparent;
+    
+  }
+
+  input.qtyplus:hover {
+    background-color: rgba(212,186,169,1);
+    color:#000;
+  }
+  
+  input.qtyminus:hover {
+    background-color: rgba(212,186,169,1);
+    color:#000;
+  }
+    
+
+
+
+  .button:hover {
+    background-color: rgba(212,186,169,1);
+    color:#000;
+
+  }

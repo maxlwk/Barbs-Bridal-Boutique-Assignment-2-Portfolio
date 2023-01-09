@@ -1,0 +1,795 @@
+body {
+    font-size: 14px;
+  }
+  .v70_69 {
+    width: 100%;
+    height: 4009px;
+    background: rgba(246,242,238,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+
+  .name {
+    color: #fff;
+  }
+  .v102_836 {
+    width: 138px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 38px;
+    left: 1622px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+
+  .v102_838 {
+    width: 184px;
+    height: 83px;
+    background: url("../images/v102_838.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 138px;
+    overflow: hidden;
+  }
+  
+  .v164_1028 {
+    width: 1080px;
+    height: 850px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    overflow: hidden;
+    padding-bottom: 200px;
+  }
+
+  .header-reveal {
+    background-color: #f3ece6;
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    background: url("../IMGS/wedding.gif");
+    object-fit: cover;
+    background-repeat: no-repeat;
+  }
+
+
+  .v164_1029 {
+    width: 627px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 316px;
+    left: 138px;
+    font-family: El Messiri;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v164_1050 {
+    width: 651px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1000px;
+    left: 927px;
+    font-family: El Messiri;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v164_1030 {
+    width: 752px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 458px;
+    left: 138px;
+    font-family: El Messiri;
+    font-weight: 20px;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v164_1032 {
+    width: 354px;
+    height: 60px;
+    background: url("../images/v164_1032.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 574px;
+    left: 138px;
+    border: 1px solid rgba(255,255,255,1);
+    overflow: hidden;
+  }
+  
+  .v164_1153 {
+    width: 176px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 3396px;
+    left: 871px;
+    font-family: El Messiri;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+
+  .v164_1055 {
+    width: 354px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 1843px;
+    left: 927px;
+    font-family: El Messiri;
+    font-weight: Bold;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+  }
+ 
+  .v164_1057 {
+    width: 440px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 2050px;
+    left: 720px;
+    font-family: El Messiri;
+    font-weight: Bold;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v164_1049 {
+    width: 303px;
+    height: 454px;
+    background: url("../IMGS/Appointment\ 2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1295px;
+    left: 146px;
+    overflow: hidden;
+  }
+  .v164_1051 {
+    width: 406px;
+    height: 304px;
+    background: url("../IMGS/Appointment\ 4.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1581px;
+    left: 462px;
+    overflow: hidden;
+  }
+  .v164_1052 {
+    width: 406px;
+    height: 505px;
+    background: url("../IMGS/Appointment\ 3.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 1063px;
+    left: 462px;
+    overflow: hidden;
+  }
+  .v164_1054 {
+    width: 651px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1160px;
+    left: 927px;
+    font-family: Inter;
+    font-weight: Light;
+    font-size: 22px;
+    opacity: 1;
+    text-align: left;
+  }
+  .name {
+    color: #fff;
+  }
+  .v164_1059 {
+    width: 518px;
+    height: 517px;
+    background: url("../IMGS/Appointment\ 8.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2810px;
+    left: 129px;
+    overflow: hidden;
+  }
+  .v164_1155 {
+    width: 525px;
+    height: 517px;
+    background: url("../IMGS/Appointment\ 9.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2810px;
+    left: 687px;
+    overflow: hidden;
+  }
+  .v164_1061 {
+    width: 533px;
+    height: 517px;
+    background: url("../IMGS/Appointment\ 10.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2810px;
+    left: 1258px;
+    overflow: hidden;
+  }
+  .v164_1062 {
+    width: 518px;
+    height: 517px;
+    background: url("../IMGS/Appointment\ 5.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2245px;
+    left: 129px;
+    overflow: hidden;
+  }
+  .v164_1063 {
+    width: 413px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 2422px;
+    left: 181px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v164_1064 {
+    width: 112px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 2585px;
+    left: 482px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v164_1065 {
+    width: 532px;
+    height: 516px;
+    background: url("../IMGS/Appointment\ 7.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2245px;
+    left: 1259px;
+    overflow: hidden;
+  }
+  .v164_1066 {
+    width: 525px;
+    height: 516px;
+    background: url("../IMGS/Appointment\ 6.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 2245px;
+    left: 687px;
+    overflow: hidden;
+  }
+  .v211_2587 {
+    width: 100%;
+    height: 400px;
+    background: rgba(233,223,214,1);
+    opacity: 1;
+    position: absolute;
+    top: 3609px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v211_2588 {
+    height: 267px;
+    background: url("../images/v211_2588.png");
+    opacity: 1;
+    position: absolute;
+    top: 3695px;
+    left: 433px;
+    border: 1px solid rgba(0,0,0,1);
+  }
+  .v211_2589 {
+    width: 294px;
+    height: 133px;
+    background: url("../IMGS/Logo.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 3728px;
+    left: 81px;
+    overflow: hidden;
+  }
+  .v211_2590 {
+    width: 223px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3695px;
+    left: 485px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2591 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3735px;
+    left: 485px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2592 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3735px;
+    left: 971px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2593 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3735px;
+    left: 731px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2594 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3775px;
+    left: 971px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2595 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3775px;
+    left: 731px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2596 {
+    width: 267px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3815px;
+    left: 950px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2597 {
+    width: 267px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3815px;
+    left: 710px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2598 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3775px;
+    left: 485px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2599 {
+    width: 222px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3695px;
+    left: 971px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2600 {
+    width: 304px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3695px;
+    left: 686px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v211_2601 {
+    width: 307px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 3696px;
+    left: 1419px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  *{
+    --webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  html{
+    font-size:16px;
+  }
+  body{
+    background: rgba(246,242,238,1);
+    font-size:1rem;
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-family: El Messiri;
+  }
+  /* Header */
+  .region-header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 20px;
+    
+  }
+  .fHeader {
+    width: 100%;
+    /* padding: 10px 80px 0; */
+  }
+  
+  .fLogo {
+    text-align: center;
+    padding-top: 30px;
+  }
+  .fLogo img {
+    max-width: 100%;
+    max-height: 60px;
+  }
+  .fMenuContainer {
+    border-bottom: 1px solid #60381E;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+  }
+  @media (max-width:720px) {
+    .fMenuContainer {
+        border-bottom: none;
+        height: auto;
+    }
+  }
+  .fMenuContainer nav ul.fMenu{
+    justify-content: center;
+    
+  }
+  nav ul.fMenu {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    list-style:none;
+  }
+  .fMenu2 nav ul.fMenu{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+  }
+  .fMenu > li > a {
+    font-size: 1.2rem;
+    margin: 0 40px;
+    position: relative !important;
+    text-transform: none;
+    background: #ffffff00;
+    line-height: 1.2em;
+    color: #000;
+    text-decoration: none;
+    font-family: El Messiri;
+  }
+  /* Toggle Menu */
+  .fMenuContainer .navbar-toggle {
+    display: block !important;
+    padding: 9px 10px;
+    background: none;
+    position: relative;
+    width: fit-content;
+   }
+   .fMenuContainer .navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background: #000;
+   }
+   .fMenuContainer .navbar-toggle .icon-bar:not(:first-child){
+    margin-top:4px;
+   }
+   .fMenuContainer .fModuleContent,
+   .fMenuContainer .navbar-toggle-container{
+    height:100%;
+    text-align: -webkit-right;
+   }
+   .fMenuContainer nav.collapse.show {
+    display: block !important;
+    position: fixed;
+    left:0;
+    right:0;
+    z-index:99;
+    height: 100%;
+    margin-left: 30px;
+    /* padding-right: 20px; */
+    /* top: 99px; */
+    transition: 0.3s ease-in-out;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu{
+    background:var(--brand-color-3);
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    align-content: flex-end;
+    padding-right: 20px;
+    opacity: 1;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu a{
+    text-align: right;
+    color:var(--brand-color-1-text);
+    display: block;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li{
+    margin:8px 0;
+    text-align: right;
+   }
+   .fMenuContainer nav.collapse.show > ul > li > ul{
+    position:relative;
+    width: 100%;
+    display: block;
+    opacity: 1;
+    visibility: visible;
+   }
+   .fMenuContainer nav.collapse.show > ul.fMenu > li > ul li{
+    margin: 0;
+    text-align: right;
+   }
+   .fMenuContainer nav.collapse.show > ul > li > ul:before,
+   .fMenuContainer nav.collapse.show > ul > li > ul:after{
+    right: 1rem;
+    left: unset;
+   }
+   .fMenuContainer nav.collapse.show > ul > li > ul:before{
+    right: 1.5rem;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li.fButton a .menu-item-text {
+    padding: unset;
+    background: unset;
+       border:unset;
+    font-weight:unset;
+    
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li.fButton a:hover .menu-item-text {
+    background: unset;
+       color: unset;
+   }
+   .fMenuContainer nav.collapse.show ul.fMenu li a::before{
+       display:none;
+   }
+
+
+
+   .button {
+      color: #D4BAA9;
+      padding: 15px 125px;
+      background-color: transparent;
+      font-size: 16px;
+      transition-duration: 0.4s;
+
+  
+    }
+
+    .button1 {
+      border: 1px solid #D4BAA9;
+    }
+
+    .button:hover {
+      background-color: #D4BAA9;
+      color:#000;
+
+    }
+
+    .v164_1031 {
+      width: 100%;
+      color: rgba(246,242,238,1);
+      position: absolute;
+      top: 575px;
+      font-family: El Messiri;
+      font-weight: Bold;
+      font-size: 15px;
+      opacity: 1;
+      padding-left: 150px;
+    }
+
+    .v164_1056 {
+      width: 100%;
+      color: black;
+      position: absolute;
+      top: 1830px;
+      font-family: El Messiri;
+      font-weight: Bold;
+      font-size: 15px;
+      opacity: 1;
+      padding-left: 930px;
+    }
+
+    .v164_1154 {
+      width: 100%;
+      color: black;
+      position: absolute;
+      top: 3330px;
+      font-family: El Messiri;
+      font-weight: Bold;
+      font-size: 15px;
+      opacity: 1;
+      padding-left: 750px;
+    }
+
+    .content {
+      position: relative;
+      width: 90%;
+      max-width: 400px;
+      margin: auto;
+      overflow: hidden;
+    }
+    
+    .content .content-overlay {
+      background: rgba(0,0,0,0.7);
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      opacity: 0;
+      -webkit-transition: all 0.4s ease-in-out 0s;
+      -moz-transition: all 0.4s ease-in-out 0s;
+      transition: all 0.4s ease-in-out 0s;
+    }
+    
+    .content:hover .content-overlay{
+      opacity: 1;
+    }
+    
+    .content-image{
+      width: 100%;
+    }
+    
+    .content-details {
+      position: absolute;
+      text-align: center;
+      padding-left: 1em;
+      padding-right: 1em;
+      width: 100%;
+      top: 50%;
+      left: 50%;
+      opacity: 0;
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      -webkit-transition: all 0.3s ease-in-out 0s;
+      -moz-transition: all 0.3s ease-in-out 0s;
+      transition: all 0.3s ease-in-out 0s;
+    }
+    
+    .content:hover .content-details{
+      top: 50%;
+      left: 50%;
+      opacity: 1;
+    }
+    
+    .content-details h3{
+      color: #fff;
+      font-weight: 500;
+      letter-spacing: 0.15em;
+      margin-bottom: 0.5em;
+      text-transform: uppercase;
+    }
+    
+    .content-details p{
+      color: #fff;
+      font-size: 0.8em;
+    }
+    
+    .fadeIn-bottom{
+      top: 80%;
+    }
+    
+    .fadeIn-top{
+      top: 20%;
+    }
+    
+    .fadeIn-left{
+      left: 20%;
+    }
+    
+    .fadeIn-right{
+      left: 80%;
+    }
