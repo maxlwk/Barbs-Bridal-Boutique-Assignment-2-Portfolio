@@ -1,0 +1,959 @@
+.v70_67 {
+    width: 100%;
+    height: 1180px;
+    background: rgba(246, 242, 238, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v357_3237 {
+    width: 1200px;
+    height: 99px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 21px;
+    left: 165px;
+    overflow: hidden;
+}
+
+.v357_3239 {
+    width: 109px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 32px;
+    left: 435px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v357_3240 {
+    width: 240px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 32px;
+    left: 576px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v357_3241 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 32px;
+    left: 1046px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v357_3242 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 32px;
+    left: 1400px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v357_3243 {
+    width: 170px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 32px;
+    left: 830px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v357_3244 {
+    width: 184px;
+    height: 83px;
+    background: url(LOGO.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.name {
+    color: #fff;
+}
+
+.v402_3224 {
+    width: 138px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 37px;
+    left: 1627px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.name {
+    color: #fff;
+}
+
+.v402_3226 {
+    width: 184px;
+    height: 83px;
+    background: url("../images/v402_3226.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 9px;
+    left: 143px;
+    overflow: hidden;
+}
+
+.v402_3227 {
+    width: 101px;
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 199px;
+    left: 64px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v402_3228 {
+    width: 100%;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 449px;
+    left: 75px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3229 {
+    width: 100%;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 640px;
+    left: 65px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3230 {
+    width: 530px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 718px;
+    left: 65px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3231 {
+    width: 530px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 719px;
+    left: 624px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3232 {
+    width: 530px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 798px;
+    left: 65px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3233 {
+    width: 336px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 958px;
+    left: 65px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3234 {
+    width: 336px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 958px;
+    left: 435px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3235 {
+    width: 336px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 958px;
+    left: 825px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3236 {
+    width: 530px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 878px;
+    left: 65px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v402_3237 {
+    width: 74px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 199px;
+    left: 194px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v402_3238 {
+    width: 74px;
+    color: rgba(127, 127, 127, 1);
+    position: absolute;
+    top: 199px;
+    left: 295px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 15px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v402_3239 {
+    width: 287px;
+    color: rgba(1, 1, 1, 1);
+    position: absolute;
+    top: 233px;
+    left: 350px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v402_3240 {
+    width: 70px;
+    color: rgba(1, 1, 1, 1);
+    position: absolute;
+    top: 373px;
+    left: 468px;
+    font-family: El Messiri;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v402_3241 {
+    width: 8px;
+    height: 4px;
+    background: rgba(0, 0, 0, 1);
+    opacity: 1;
+    position: absolute;
+    top: 209px;
+    left: 181px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    transform: rotate(-90deg);
+}
+
+.v402_3242 {
+    width: 8px;
+    height: 4px;
+    background: rgba(0, 0, 0, 1);
+    opacity: 1;
+    position: absolute;
+    top: 209px;
+    left: 281px;
+    border: 1px solid rgba(0, 0, 0, 1);
+    transform: rotate(-90deg);
+}
+
+.v402_3243 {
+    width: 320px;
+    background: url("visa-mastercard-icon-5\ 1.png");
+    opacity: 1;
+    position: absolute;
+    top: 249px;
+    left: 55px;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.v402_3244 {
+    width: 320px;
+    background: url("visa-mastercard-icon-5\ 2.png");
+    opacity: 1;
+    position: absolute;
+    top: 249px;
+    left: 620px;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.v402_3245 {
+    width: 410px;
+    background: url("visa-mastercard-icon-5\ 3.png");
+    opacity: 1;
+    position: absolute;
+    top: 389px;
+    left: 55px;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.v402_3246 {
+    width: 403px;
+    background: url("visa-mastercard-icon-5\ 1.png");
+    opacity: 1;
+    position: absolute;
+    top: 389px;
+    left: 540px;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.v402_3247 {
+    width: 650px;
+    background: url("visa-mastercard-icon-5\ 1.png");
+    opacity: 1;
+    position: absolute;
+    top: 499px;
+    left: 1215px;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.v402_3248 {
+    width: 650px;
+    background: url("visa-mastercard-icon-5\ 1.png");
+    opacity: 1;
+    position: absolute;
+    top: 601px;
+    left: 1215px;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.v402_3249 {
+    width: 650px;
+    background: url("visa-mastercard-icon-5\ 1.png");
+    opacity: 1;
+    position: absolute;
+    top: 739px;
+    left: 1215px;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.v402_3250 {
+    width: 84px;
+    height: 56px;
+    background: url("visa-mastercard-icon-5\ 1.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 289px;
+    left: 251px;
+    overflow: hidden;
+}
+
+.v402_3251 {
+    width: 84px;
+    height: 56px;
+    background: url("visa-mastercard-icon-5\ 2.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 289px;
+    left: 460px;
+    overflow: hidden;
+}
+
+.v402_3252 {
+    width: 84px;
+    height: 58px;
+    background: url("visa-mastercard-icon-5\ 3.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 289px;
+    left: 669px;
+    overflow: hidden;
+}
+
+
+
+.col-25 {
+    -ms-flex: 25%;
+    /* IE10 */
+    flex: 25%;
+}
+
+.col-50 {
+    -ms-flex: 50%;
+    /* IE10 */
+    flex: 50%;
+}
+
+.col-75 {
+    -ms-flex: 75%;
+    /* IE10 */
+    flex: 75%;
+}
+
+.col-25,
+.col-50,
+.col-75 {
+    padding: 0 16px;
+}
+
+@media (max-width: 767px) {
+    .col-25 {
+        margin-bottom: 20px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Start Here */
+* {
+    --webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background: rgba(246, 242, 238, 1);
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-family: El Messiri;
+}
+
+.container {
+    padding: 50px 18px 13px 58px;
+    position: none;
+    background-color: none;
+    border-radius: 3px;
+    box-shadow: 0 0 2rem 0 rgba(246, 242, 238, 1);
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+/* Header */
+.region-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.fHeader {
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+.fLogo {
+    text-align: center;
+}
+
+.fLogo img {
+    max-width: 100%;
+    max-height: 60px;
+}
+
+.fMenuContainer {
+    border-bottom: 1px solid #000;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width:767px) {
+    .fMenuContainer {
+        border-bottom: none;
+        height: auto;
+    }
+}
+
+.fMenuContainer nav ul.fMenu {
+    justify-content: center;
+}
+
+nav ul.fMenu {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.fMenu2 nav ul.fMenu {
+    display: flex;
+    justify-content: center;
+}
+
+.fMenu>li>a {
+    font-size: 1.2rem;
+    margin: 0 40px;
+    position: relative !important;
+    text-transform: none;
+    background: #ffffff00;
+    line-height: 1.2em;
+    color: #000;
+    text-decoration: none;
+    font-family: El Messiri;
+}
+
+/* Toggle Menu */
+.fMenuContainer .navbar-toggle {
+    display: block !important;
+    padding: 9px 10px;
+    background: none;
+    position: relative;
+    width: fit-content;
+}
+
+.fMenuContainer .navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background: #000;
+}
+
+.fMenuContainer .navbar-toggle .icon-bar:not(:first-child) {
+    margin-top: 4px;
+}
+
+.fMenuContainer .fModuleContent,
+.fMenuContainer .navbar-toggle-container {
+    height: 100%;
+    text-align: -webkit-right;
+}
+
+.fMenuContainer nav.collapse.show {
+    display: block !important;
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    height: 100%;
+    margin-left: 30px;
+    /* padding-right: 20px; */
+    /* top: 99px; */
+    transition: 0.3s ease-in-out;
+}
+
+.fMenuContainer nav.collapse.show ul.fMenu {
+    background: var(--brand-color-3);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    align-content: flex-end;
+    padding-right: 20px;
+    opacity: 1;
+}
+
+.fMenuContainer nav.collapse.show ul.fMenu a {
+    text-align: right;
+    color: var(--brand-color-1-text);
+    display: block;
+}
+
+.fMenuContainer nav.collapse.show ul.fMenu li {
+    margin: 8px 0;
+    text-align: right;
+}
+
+.fMenuContainer nav.collapse.show>ul>li>ul {
+    position: relative;
+    width: 100%;
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+
+.fMenuContainer nav.collapse.show>ul.fMenu>li>ul li {
+    margin: 0;
+    text-align: right;
+}
+
+.fMenuContainer nav.collapse.show>ul>li>ul:before,
+.fMenuContainer nav.collapse.show>ul>li>ul:after {
+    right: 1rem;
+    left: unset;
+}
+
+.fMenuContainer nav.collapse.show>ul>li>ul:before {
+    right: 1.5rem;
+}
+
+.fMenuContainer nav.collapse.show ul.fMenu li.fButton a .menu-item-text {
+    padding: unset;
+    background: unset;
+    border: unset;
+    font-weight: unset;
+}
+
+.fMenuContainer nav.collapse.show ul.fMenu li.fButton a:hover .menu-item-text {
+    background: unset;
+    color: unset;
+}
+
+.fMenuContainer nav.collapse.show ul.fMenu li a::before {
+    display: none;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+/* form */
+.error {
+    color: red;
+    border-color: red;
+}
+
+input[type=text],
+select {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 12px;
+    border: 1px solid rgb(130, 26, 26);
+    border-radius: 1px;
+    height: 50px;
+}
+
+option:first {
+    color: #878787;
+}
+
+label {
+    margin-bottom: 5px;
+    display: block;
+}
+
+.icon-container {
+    margin-bottom: 20px;
+    padding: 7px 0;
+    font-size: 24px;
+}
+
+.btn {
+    background-color: #01BAEF;
+    color: white;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+    box-shadow: 0 0 1rem 0 rgba(99, 123, 150, 0.329);
+
+}
+
+.btn:hover {
+    background-color: #0CBABA;
+}
+
+a {
+    color: #2196F3;
+}
+
+hr {
+    border: 1px solid lightgrey;
+}
+
+span.price {
+    float: right;
+    color: grey;
+}
+
+.form-heading {
+    font-weight: 600;
+}
+
+.form-item label {
+    display: none;
+}
+
+.buttons [type=submit] {
+    width: 100%;
+    background-color: #ccb5a5;
+    padding: 10px;
+    color: #fff;
+    border: none;
+    transition: 0.3s ease-in-out;
+    height: 50px;
+}
+
+.buttons [type=submit]:hover {
+    background-color: #BE9B83;
+}
+
+.card-info ul {
+    text-align: center;
+}
+
+.card-info ul li {
+    display: inline;
+    padding: 0 30px;
+}
+
+.card-info ul li img {
+    max-width: 60px;
+}
+
+h4 {
+    text-align: center;
+    overflow: hidden;
+}
+
+h4:after,
+h4:before {
+    content: '';
+    height: 1px;
+    display: inline-block;
+    background-color: #000;
+    width: 50%;
+    vertical-align: middle;
+    position: relative;
+}
+
+h4:before {
+    right: 1.5em;
+    margin-left: -50%;
+}
+
+h4:after {
+    left: 1.5em;
+    margin-right: -50%;
+}
+
+.card-info {
+    margin-bottom: 3rem;
+}
+
+.product-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-height: 243px;
+}
+
+.product-desc {
+    color: #85593B;
+    letter-spacing: 2px;
+    font-size: 1.05rem;
+}
+
+.product-discount {
+    margin: 1rem 0;
+    padding: 1rem 0;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+input#field_id_voucher {
+    margin-bottom: 0;
+}
+
+option[value=""] {
+    color: grey;
+}
+
+select:invalid {
+    color: grey;
+}
+
+.product-cost {
+    margin-bottom: 37px;
+}
+
+@media (max-width:767px) {
+    .product-photo img {
+        max-width: 90px;
+    }
+
+    .product-desc {
+        font-size: 1rem;
+        letter-spacing: 1px;
+    }
+
+    .card-info ul li {
+        padding: 0 10px;
+    }
+}
+
+
+/* Footer */
+.footer-container.row {
+    background: rgba(233, 223, 214, 1);
+    overflow: hidden;
+    padding: 2rem 0;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+.logo_bottom {
+    text-align: center;
+    border-right: 1px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-nav {
+    font-weight: 600;
+    padding: 1rem;
+    text-align: center;
+}
+
+.footer-nav ul {
+    padding-left: 0;
+    font-weight: 300;
+    margin: 0;
+    margin-top: 12px;
+}
+
+.footer-nav li {
+    padding: 2px 0;
+}
+
+.footer-social {
+    text-align: center;
+}
+
+.footer-social ul {
+    padding-left: 0;
+}
+
+.footer-social ul li {
+    display: inline-block;
+    padding: 5px;
+}
+
+@media (max-width:767px) {
+    .logo_bottom {
+        border-right: none;
+        margin-bottom: 2rem;
+    }
+
+    .footer-nav {
+        font-size: 0.9rem;
+    }
+}
+
+.footer-nav li a {
+    color: #000;
+    text-decoration: none;
+    transition: 0.3s ease-in-out;
+}
+
+.footer-nav li:hover a {
+    color: #85593B;
+}
+
+    
+}
